@@ -1,0 +1,15 @@
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TipDonusum\bin\Debug\net7.0\TipDonusum.exe
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TipDonusum\bin\Debug\net7.0\TipDonusum.deps.json
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TipDonusum\bin\Debug\net7.0\TipDonusum.runtimeconfig.json
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TipDonusum\bin\Debug\net7.0\TipDonusum.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TipDonusum\bin\Debug\net7.0\TipDonusum.pdb
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TipDonusum\obj\Debug\net7.0\TipDonusum.csproj.AssemblyReference.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TipDonusum\obj\Debug\net7.0\TipDonusum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TipDonusum\obj\Debug\net7.0\TipDonusum.AssemblyInfoInputs.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TipDonusum\obj\Debug\net7.0\TipDonusum.AssemblyInfo.cs
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TipDonusum\obj\Debug\net7.0\TipDonusum.csproj.CoreCompileInputs.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TipDonusum\obj\Debug\net7.0\TipDonusum.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TipDonusum\obj\Debug\net7.0\refint\TipDonusum.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TipDonusum\obj\Debug\net7.0\TipDonusum.pdb
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TipDonusum\obj\Debug\net7.0\TipDonusum.genruntimeconfig.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TipDonusum\obj\Debug\net7.0\ref\TipDonusum.dll
