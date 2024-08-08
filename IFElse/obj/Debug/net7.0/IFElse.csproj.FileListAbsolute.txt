@@ -1,0 +1,15 @@
+C:\Users\lzila\source\repos\WissenLessonSeries\FundaMental\IFElse\bin\Debug\net7.0\IFElse.exe
+C:\Users\lzila\source\repos\WissenLessonSeries\FundaMental\IFElse\bin\Debug\net7.0\IFElse.deps.json
+C:\Users\lzila\source\repos\WissenLessonSeries\FundaMental\IFElse\bin\Debug\net7.0\IFElse.runtimeconfig.json
+C:\Users\lzila\source\repos\WissenLessonSeries\FundaMental\IFElse\bin\Debug\net7.0\IFElse.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\FundaMental\IFElse\bin\Debug\net7.0\IFElse.pdb
+C:\Users\lzila\source\repos\WissenLessonSeries\FundaMental\IFElse\obj\Debug\net7.0\IFElse.csproj.AssemblyReference.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\FundaMental\IFElse\obj\Debug\net7.0\IFElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lzila\source\repos\WissenLessonSeries\FundaMental\IFElse\obj\Debug\net7.0\IFElse.AssemblyInfoInputs.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\FundaMental\IFElse\obj\Debug\net7.0\IFElse.AssemblyInfo.cs
+C:\Users\lzila\source\repos\WissenLessonSeries\FundaMental\IFElse\obj\Debug\net7.0\IFElse.csproj.CoreCompileInputs.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\FundaMental\IFElse\obj\Debug\net7.0\IFElse.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\FundaMental\IFElse\obj\Debug\net7.0\refint\IFElse.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\FundaMental\IFElse\obj\Debug\net7.0\IFElse.pdb
+C:\Users\lzila\source\repos\WissenLessonSeries\FundaMental\IFElse\obj\Debug\net7.0\IFElse.genruntimeconfig.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\FundaMental\IFElse\obj\Debug\net7.0\ref\IFElse.dll
