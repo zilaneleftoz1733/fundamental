@@ -1,0 +1,15 @@
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DegiskenTanimlama\bin\Debug\net7.0\DegiskenTanimlama.exe
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DegiskenTanimlama\bin\Debug\net7.0\DegiskenTanimlama.deps.json
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DegiskenTanimlama\bin\Debug\net7.0\DegiskenTanimlama.runtimeconfig.json
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DegiskenTanimlama\bin\Debug\net7.0\DegiskenTanimlama.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DegiskenTanimlama\bin\Debug\net7.0\DegiskenTanimlama.pdb
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DegiskenTanimlama\obj\Debug\net7.0\DegiskenTanimlama.csproj.AssemblyReference.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DegiskenTanimlama\obj\Debug\net7.0\DegiskenTanimlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DegiskenTanimlama\obj\Debug\net7.0\DegiskenTanimlama.AssemblyInfoInputs.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DegiskenTanimlama\obj\Debug\net7.0\DegiskenTanimlama.AssemblyInfo.cs
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DegiskenTanimlama\obj\Debug\net7.0\DegiskenTanimlama.csproj.CoreCompileInputs.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DegiskenTanimlama\obj\Debug\net7.0\DegiskenTanimlama.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DegiskenTanimlama\obj\Debug\net7.0\refint\DegiskenTanimlama.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DegiskenTanimlama\obj\Debug\net7.0\DegiskenTanimlama.pdb
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DegiskenTanimlama\obj\Debug\net7.0\DegiskenTanimlama.genruntimeconfig.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DegiskenTanimlama\obj\Debug\net7.0\ref\DegiskenTanimlama.dll
