@@ -1,0 +1,15 @@
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Donguler_4\bin\Debug\net6.0\Donguler_4.exe
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Donguler_4\bin\Debug\net6.0\Donguler_4.deps.json
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Donguler_4\bin\Debug\net6.0\Donguler_4.runtimeconfig.json
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Donguler_4\bin\Debug\net6.0\Donguler_4.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Donguler_4\bin\Debug\net6.0\Donguler_4.pdb
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Donguler_4\obj\Debug\net6.0\Donguler_4.csproj.AssemblyReference.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Donguler_4\obj\Debug\net6.0\Donguler_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Donguler_4\obj\Debug\net6.0\Donguler_4.AssemblyInfoInputs.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Donguler_4\obj\Debug\net6.0\Donguler_4.AssemblyInfo.cs
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Donguler_4\obj\Debug\net6.0\Donguler_4.csproj.CoreCompileInputs.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Donguler_4\obj\Debug\net6.0\Donguler_4.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Donguler_4\obj\Debug\net6.0\refint\Donguler_4.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Donguler_4\obj\Debug\net6.0\Donguler_4.pdb
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Donguler_4\obj\Debug\net6.0\Donguler_4.genruntimeconfig.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Donguler_4\obj\Debug\net6.0\ref\Donguler_4.dll
