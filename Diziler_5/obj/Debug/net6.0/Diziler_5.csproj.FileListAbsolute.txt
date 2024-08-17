@@ -1,0 +1,15 @@
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Diziler_5\bin\Debug\net6.0\Diziler_5.exe
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Diziler_5\bin\Debug\net6.0\Diziler_5.deps.json
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Diziler_5\bin\Debug\net6.0\Diziler_5.runtimeconfig.json
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Diziler_5\bin\Debug\net6.0\Diziler_5.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Diziler_5\bin\Debug\net6.0\Diziler_5.pdb
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Diziler_5\obj\Debug\net6.0\Diziler_5.csproj.AssemblyReference.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Diziler_5\obj\Debug\net6.0\Diziler_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Diziler_5\obj\Debug\net6.0\Diziler_5.AssemblyInfoInputs.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Diziler_5\obj\Debug\net6.0\Diziler_5.AssemblyInfo.cs
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Diziler_5\obj\Debug\net6.0\Diziler_5.csproj.CoreCompileInputs.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Diziler_5\obj\Debug\net6.0\Diziler_5.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Diziler_5\obj\Debug\net6.0\refint\Diziler_5.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Diziler_5\obj\Debug\net6.0\Diziler_5.pdb
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Diziler_5\obj\Debug\net6.0\Diziler_5.genruntimeconfig.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Diziler_5\obj\Debug\net6.0\ref\Diziler_5.dll

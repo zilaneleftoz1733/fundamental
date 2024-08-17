@@ -1,0 +1,15 @@
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Method\bin\Debug\net6.0\Method.exe
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Method\bin\Debug\net6.0\Method.deps.json
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Method\bin\Debug\net6.0\Method.runtimeconfig.json
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Method\bin\Debug\net6.0\Method.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Method\bin\Debug\net6.0\Method.pdb
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Method\obj\Debug\net6.0\Method.csproj.AssemblyReference.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Method\obj\Debug\net6.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Method\obj\Debug\net6.0\Method.AssemblyInfoInputs.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Method\obj\Debug\net6.0\Method.AssemblyInfo.cs
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Method\obj\Debug\net6.0\Method.csproj.CoreCompileInputs.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Method\obj\Debug\net6.0\Method.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Method\obj\Debug\net6.0\refint\Method.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Method\obj\Debug\net6.0\Method.pdb
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Method\obj\Debug\net6.0\Method.genruntimeconfig.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\Method\obj\Debug\net6.0\ref\Method.dll

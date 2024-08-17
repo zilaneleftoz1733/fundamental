@@ -1,0 +1,15 @@
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TryCatch_7\bin\Debug\net6.0\TryCatch_7.exe
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TryCatch_7\bin\Debug\net6.0\TryCatch_7.deps.json
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TryCatch_7\bin\Debug\net6.0\TryCatch_7.runtimeconfig.json
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TryCatch_7\bin\Debug\net6.0\TryCatch_7.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TryCatch_7\bin\Debug\net6.0\TryCatch_7.pdb
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TryCatch_7\obj\Debug\net6.0\TryCatch_7.csproj.AssemblyReference.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TryCatch_7\obj\Debug\net6.0\TryCatch_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TryCatch_7\obj\Debug\net6.0\TryCatch_7.AssemblyInfoInputs.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TryCatch_7\obj\Debug\net6.0\TryCatch_7.AssemblyInfo.cs
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TryCatch_7\obj\Debug\net6.0\TryCatch_7.csproj.CoreCompileInputs.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TryCatch_7\obj\Debug\net6.0\TryCatch_7.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TryCatch_7\obj\Debug\net6.0\refint\TryCatch_7.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TryCatch_7\obj\Debug\net6.0\TryCatch_7.pdb
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TryCatch_7\obj\Debug\net6.0\TryCatch_7.genruntimeconfig.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\TryCatch_7\obj\Debug\net6.0\ref\TryCatch_7.dll
