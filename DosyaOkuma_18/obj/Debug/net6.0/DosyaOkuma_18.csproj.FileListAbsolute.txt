@@ -1,0 +1,15 @@
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DosyaOkuma_18\bin\Debug\net6.0\DosyaOkuma_18.exe
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DosyaOkuma_18\bin\Debug\net6.0\DosyaOkuma_18.deps.json
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DosyaOkuma_18\bin\Debug\net6.0\DosyaOkuma_18.runtimeconfig.json
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DosyaOkuma_18\bin\Debug\net6.0\DosyaOkuma_18.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DosyaOkuma_18\bin\Debug\net6.0\DosyaOkuma_18.pdb
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DosyaOkuma_18\obj\Debug\net6.0\DosyaOkuma_18.csproj.AssemblyReference.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DosyaOkuma_18\obj\Debug\net6.0\DosyaOkuma_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DosyaOkuma_18\obj\Debug\net6.0\DosyaOkuma_18.AssemblyInfoInputs.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DosyaOkuma_18\obj\Debug\net6.0\DosyaOkuma_18.AssemblyInfo.cs
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DosyaOkuma_18\obj\Debug\net6.0\DosyaOkuma_18.csproj.CoreCompileInputs.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DosyaOkuma_18\obj\Debug\net6.0\DosyaOkuma_18.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DosyaOkuma_18\obj\Debug\net6.0\refint\DosyaOkuma_18.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DosyaOkuma_18\obj\Debug\net6.0\DosyaOkuma_18.pdb
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DosyaOkuma_18\obj\Debug\net6.0\DosyaOkuma_18.genruntimeconfig.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\DosyaOkuma_18\obj\Debug\net6.0\ref\DosyaOkuma_18.dll

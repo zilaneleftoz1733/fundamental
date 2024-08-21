@@ -1,0 +1,15 @@
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\CustomerDosyaOkuma\bin\Debug\net6.0\CustomerDosyaOkuma.exe
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\CustomerDosyaOkuma\bin\Debug\net6.0\CustomerDosyaOkuma.deps.json
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\CustomerDosyaOkuma\bin\Debug\net6.0\CustomerDosyaOkuma.runtimeconfig.json
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\CustomerDosyaOkuma\bin\Debug\net6.0\CustomerDosyaOkuma.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\CustomerDosyaOkuma\bin\Debug\net6.0\CustomerDosyaOkuma.pdb
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\CustomerDosyaOkuma\obj\Debug\net6.0\CustomerDosyaOkuma.csproj.AssemblyReference.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\CustomerDosyaOkuma\obj\Debug\net6.0\CustomerDosyaOkuma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\CustomerDosyaOkuma\obj\Debug\net6.0\CustomerDosyaOkuma.AssemblyInfoInputs.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\CustomerDosyaOkuma\obj\Debug\net6.0\CustomerDosyaOkuma.AssemblyInfo.cs
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\CustomerDosyaOkuma\obj\Debug\net6.0\CustomerDosyaOkuma.csproj.CoreCompileInputs.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\CustomerDosyaOkuma\obj\Debug\net6.0\CustomerDosyaOkuma.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\CustomerDosyaOkuma\obj\Debug\net6.0\refint\CustomerDosyaOkuma.dll
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\CustomerDosyaOkuma\obj\Debug\net6.0\CustomerDosyaOkuma.pdb
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\CustomerDosyaOkuma\obj\Debug\net6.0\CustomerDosyaOkuma.genruntimeconfig.cache
+C:\Users\lzila\source\repos\WissenLessonSeries\fundamental\CustomerDosyaOkuma\obj\Debug\net6.0\ref\CustomerDosyaOkuma.dll
